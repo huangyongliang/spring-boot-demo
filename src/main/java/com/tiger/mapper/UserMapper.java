@@ -1,6 +1,6 @@
-package com.winter.mapper;
+package com.tiger.mapper;
 
-import com.winter.model.User;
+import com.tiger.model.User;
 
 import java.util.List;
 
@@ -19,5 +19,4 @@ public interface UserMapper {
 
     //这个方式我自己加的
     List<User> selectAllUser();
-
 }

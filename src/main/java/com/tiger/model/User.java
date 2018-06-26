@@ -1,4 +1,4 @@
-package com.winter.model;
+package com.tiger.model;
 
 public class User {
     private Integer userId;

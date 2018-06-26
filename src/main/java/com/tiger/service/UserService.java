@@ -1,9 +1,7 @@
-package com.winter.service;
-
-import com.winter.model.User;
+package com.tiger.service;
 
 import java.util.List;
-
+import com.tiger.model.User;
 /**
  * Created by Administrator on 2017/8/16.
  */

@@ -1,9 +1,9 @@
-package com.winter.service.impl;
+package com.tiger.service.impl;
 
 import com.github.pagehelper.PageHelper;
-import com.winter.mapper.UserMapper;
-import com.winter.model.User;
-import com.winter.service.UserService;
+import com.tiger.mapper.UserMapper;
+import com.tiger.model.User;
+import com.tiger.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

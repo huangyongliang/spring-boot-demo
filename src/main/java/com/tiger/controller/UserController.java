@@ -1,7 +1,7 @@
-package com.winter.controller;
+package com.tiger.controller;
 
-import com.winter.model.User;
-import com.winter.service.UserService;
+import com.tiger.service.UserService;
+import com.tiger.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
